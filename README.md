@@ -1,5 +1,5 @@
-Development Box
-===============
+Developer Box
+=============
 
 A development environment created with 
 [vagrant](http://vagrantup.com/ "Vagrant Homepage").
